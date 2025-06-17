@@ -42,7 +42,7 @@ export default function Home() {
                   About five years ago Craig asked your mom and me to write our
                   autobiography beginning as far back as we could remember. Mom
                   wrote hers and passed it on to Craig. I wrote mine but never
-                  completed it, and I'm not sure that I ever will. At least this
+                  completed it, and I&rsquo;m not sure that I ever will. At least this
                   autobiography will give you some idea about my life in the
                   good old days. Hope you enjoy reading it.
                 </p>
@@ -72,9 +72,9 @@ export default function Home() {
                 My Mother, Ruth Horner Pruett, a.k.a. Mom, was born in Essex,
                 Connecticut, on October 17, 1892. She died in the Paul Kimball
                 Hospital in Lakewood, N.J. on July 18, 1976, from ovarian cancer
-                — just six weeks following my Dad's death. Her mother, Minnie
+                — just six weeks following my Dad&rsquo;s death. Her mother, Minnie
                 May Horner, was born in Naughrightville, N.J. in 1867 and died
-                in our Teaneck home around 1950. Mom's father, William E.
+                in our Teaneck home around 1950. Mom&rsquo;s father, William E.
                 Horner, was born in Essex, Conn. in 1868. I have no record of
                 when or where he died. He worked as a conductor on a railroad.
                 There were no other children.
@@ -90,7 +90,7 @@ export default function Home() {
                 both places were in the Baltimore area. Dad was the youngest of
                 seven children — five girls and two boys. After graduating from
                 high school, he attended Baltimore Polytechnical School and got
-                a degree in mechanical engineering. His father's occupation is
+                a degree in mechanical engineering. His father&rsquo;s occupation is
                 unknown.
               </p>
 
@@ -107,7 +107,7 @@ export default function Home() {
                 engaged to a man named Ben Price who, I believe, served in WWI
                 as a medic. Dad had a deferment because he worked for a company
                 that was closely allied to the food industry - which served not
-                only our own country's needs but also the needs of our European
+                only our own country&rsquo;s needs but also the needs of our European
                 allies. Obviously Mom was stricken with the Pruett charms !!!
                 and returned her engagement ring to Ben. I do not recall any
                 love interest Dad had other than Mom.
@@ -124,24 +124,24 @@ export default function Home() {
 
               <p>
                 The law of opposites attracting was certainly true in Mom and
-                Dad's case. Dad was soft spoken, loving, and rather easy going.
+                Dad&rsquo;s case. Dad was soft spoken, loving, and rather easy going.
                 Mom could be quick tempered at times but very compassionate and
                 affectionate. You always knew where you stood with Mom. She told
                 it like it was. I remember that during the depression we often
                 had beggars come to the rear door of our house in Teaneck asking
                 for food. I never recall Mom ever refusing to give them
-                something to eat. And when her mother and her mother's sister,
+                something to eat. And when her mother and her mother&rsquo;s sister,
                 Aunt Nell, were down and out Mom had them live with us for a few
-                years. Quite a tribute to Dad's compassion too!
+                years. Quite a tribute to Dad&rsquo;s compassion too!
               </p>
 
               <p>
                 Mom loved to tell a joke - usually on herself. One was about the
                 time she ordered a pound of syracuse from the butcher. He
-                scratched his head and replied, "Sorry Mam, we don't have any
-                syracuse, but we do have some cincinnatti". Mom agreed that's
-                what she wanted and said to the butcher, "Well you know they
-                both begin with a "C".
+                scratched his head and replied, &ldquo;Sorry Mam, we don&rsquo;t have any
+                syracuse, but we do have some cincinnatti&rdquo;. Mom agreed that&rsquo;s
+                what she wanted and said to the butcher, &ldquo;Well you know they
+                both begin with a &lsquo;C&rsquo;&rdquo;.
               </p>
 
               <p>
@@ -164,8 +164,8 @@ export default function Home() {
                 weekends they often played bridge with neighbors and friends. A
                 couple of times a year the three of us would go to New York City
                 to see a play or to Radio City Music Hall to see a show.
-                Afterwards we'd usually have a good Italian spaghetti dinner at
-                a Caruso's restaurant (no longer in business). Of course we
+                Afterwards we&rsquo;d usually have a good Italian spaghetti dinner at
+                a Caruso&rsquo;s restaurant (no longer in business). Of course we
                 often went to see a show at one of the two movie houses in
                 Hackensack.
               </p>
@@ -186,7 +186,7 @@ export default function Home() {
                 two medium size bedrooms and one small one plus a bathroom all
                 on the second floor. The first floor had a living room, dining
                 room, parlor, and kitchen. There was no garage until the late
-                20's when Dad built one himself plus a two strip concrete
+                20&rsquo;s when Dad built one himself plus a two strip concrete
                 driveway. The neighborhood had many different nationalities
                 represented - Irish, Italian, Russian, Norwegian, etc. With only
                 a few exceptions, we all seemed to get along together. The
@@ -201,8 +201,8 @@ export default function Home() {
                 half from our house. I still remember Mom listening to a crystal
                 set radio, with ear phones of course, while she was ironing in
                 the kitchen. Speaking of radios - when we finally purchased a
-                conventional one the "gang," about six neighborhood boys, would
-                take turns at one another's home and listen to such programs as
+                conventional one the &ldquo;gang,&rdquo; about six neighborhood boys, would
+                take turns at one another&rsquo;s home and listen to such programs as
                 Buck Rogers, Jack Armstrong, Dick Tracy and Little Orphan Annie.
                 How we did look forward to listening to an hour of those serials
                 just before dinner — especially in the winter time when it was
@@ -217,8 +217,8 @@ export default function Home() {
                 would break out with eczema and and my face would be covered
                 with all kinds of different colored salves. I still remember Mom
                 and Dad fastening corrugated cardboard sleeves around my elbows
-                so that I couldn't bend my arms and scratch my face while
-                sleeping. That wasn't the best solution because I would then rub
+                so that I couldn&rsquo;t bend my arms and scratch my face while
+                sleeping. That wasn&rsquo;t the best solution because I would then rub
                 my face in the pillows until they were bloody.
               </p>
 
@@ -250,12 +250,12 @@ export default function Home() {
               </h2>
 
               <p>
-                Of course the depression was in full swing in the early 30's.
-                Dad's job with American Agricultural Chemical Co., the only
+                Of course the depression was in full swing in the early 30&rsquo;s.
+                Dad&rsquo;s job with American Agricultural Chemical Co., the only
                 company he ever worked for, was, at times, a little uncertain.
                 But we managed quite well especially when you consider the
                 economy and the number of people who lost their jobs. One thing
-                that boosted our spirits in those troubled times was "Impy". He
+                that boosted our spirits in those troubled times was &ldquo;Impy&rdquo;. He
                 was the first of two of our Boston terriers. Mom sent me to the
                 Teaneck train station, only about five blocks away, to pick up
                 the dog. He had been shipped in a crate from someplace in New
@@ -266,11 +266,11 @@ export default function Home() {
               </p>
 
               <p>
-                In the '30's because money was rather tight, and of course no
+                In the &rsquo;30&rsquo;s because money was rather tight, and of course no
                 television, we entertained ourselves a lot. We played baseball
                 in the summer and football in the fall and winter at a vacant
                 lot a block from our Teaneck home. Since I was on the heavy side
-                as a young boy - my friends called me "Crisco" (fat in the can)
+                as a young boy - my friends called me &ldquo;Crisco&rdquo; (fat in the can)
                 - my position playing football was usually guard or tackle. When
                 my parents bought me a helmet and shoulder pads I thought I was
                 invinceable. In those days playing marbles was quite popular
@@ -278,17 +278,17 @@ export default function Home() {
                 invariably lost and, therefore, supplied them with a lot of
                 marbles. My parents, grandmother and aunt always knew what to
                 give me as a gift - <strong>more</strong> marbles. Every so
-                often in the fall we'd build a fire at this vacant lot and roast
+                often in the fall we&rsquo;d build a fire at this vacant lot and roast
                 potatoes and eat them on the spot. Another very popular sport
                 was street hockey using four wheel roller skates that clamped
                 onto your shoes. Inline roller skates were unknown in those
-                days. We'd skate in the street with little or no traffic. Of
-                course when nearby ponds were frozen over we'd play ice hockey
+                days. We&rsquo;d skate in the street with little or no traffic. Of
+                course when nearby ponds were frozen over we&rsquo;d play ice hockey
                 too. I enjoyed down slope skiing at the old Phelps Manor Golf
                 Club located near the intersection of the eastern end of Cedar
-                Lane and Teaneck Road. Unfortunately that didn't last long.
+                Lane and Teaneck Road. Unfortunately that didn&rsquo;t last long.
                 Building route 4 from the George Washington bridge to Paterson
-                in the early '30's meant that people along the highway had an
+                in the early &rsquo;30&rsquo;s meant that people along the highway had an
                 easy commute to New York City. Consequently a lot of people in
                 the city moved out to the suburbs of Teaneck. This created a
                 building boom and the golf club was purchased and replaced by
@@ -316,7 +316,7 @@ export default function Home() {
 
               <p>
                 Most of our two weeks summer vacations in this decade were spent
-                in New England. In the early '30's we vacationed at a farm house
+                in New England. In the early &rsquo;30&rsquo;s we vacationed at a farm house
                 on Lake Hortonia which is about 25 miles north west of Rutland.
                 They had cows, a bull of course, pigs, chickens and horses. I
                 spent a lot of time in the barn with the animals. Many days Dad
@@ -340,35 +340,35 @@ export default function Home() {
               </p>
 
               <p>
-                In the late '20's and early '30's cars did not have much space
+                In the late &rsquo;20&rsquo;s and early &rsquo;30&rsquo;s cars did not have much space
                 for luggage. Packing clothes for for three people for a two week
                 stay was not easy. Mom filled a huge steamer trunk with our
                 clothes and shipped it by railroad to our destination at least a
                 week before our arrival date. The reverse procedure was taken on
                 our return home. Of course in this era there was only a fraction
                 of the number of New Jersey cars traveling in New England
-                compared with what you'll find today. Whenever we saw a New
-                Jersey license plate we'd honk the horn and wave to the
+                compared with what you&rsquo;ll find today. Whenever we saw a New
+                Jersey license plate we&rsquo;d honk the horn and wave to the
                 occupants of the other car and they would wave back.
               </p>
 
               <p>
                 Between 1930 to 1940, we did visit with some of our many
-                relatives - especially those on my Dad's side. We exchanged
+                relatives - especially those on my Dad&rsquo;s side. We exchanged
                 visits with the Treco family in Waltham, Massachusetts. Aunt Sue
-                Treco was one of Dad's sisters. They had three children —
+                Treco was one of Dad&rsquo;s sisters. They had three children —
                 Mildred, Howard and Bud, who were older than I. Quite frequently
-                we drove to Baltimore to visit Uncle George, Dad's brother, Aunt
+                we drove to Baltimore to visit Uncle George, Dad&rsquo;s brother, Aunt
                 Pearl and my cousins Pearl, Mary Virginia, and Lewis. One summer
                 We vacationed with them on Bush River which is on the Chesepeake
                 Bay. We had a lot of fun fishing and crabbing but not swimming.
                 The river was full of seaweed. We also visited Uncle Bill and
                 Aunt Myra Sharp and their two daughters Betty and Louise. They
-                lived in Philadelphia and were relatives on my Mom's side.
+                lived in Philadelphia and were relatives on my Mom&rsquo;s side.
                 Beginning at age fourteen, Louise invited me to parties at her
                 house. I traveled by train. She got me dates with some nice
                 looking chicks. There were usually three or four couples at
-                these parties and we'd play kissing games. I liked that.
+                these parties and we&rsquo;d play kissing games. I liked that.
               </p>
 
               <p>
@@ -397,7 +397,7 @@ export default function Home() {
                 him rummaging around for something. When I asked him what he was
                 doing he told me he was trying to find something — in the dark
                 no less. Being a compassionate soul, I turned on my flashlight
-                and tried to help him. Wouldn't you know one of the older boy
+                and tried to help him. Wouldn&rsquo;t you know one of the older boy
                 scouts in charge of our tent area heard the commotion and came
                 to investigate. I told him the story. As a result, because I was
                 the one violating the lights out rule, I had to take a pail, go
@@ -412,7 +412,7 @@ export default function Home() {
                 college (or scientific) curriculum. A language course was not
                 mandatory but I chose to take french. Well that was a big
                 mistake. The teacher was a southerner from New Orleans, and I
-                couldn't understand her when she spoke english - much less
+                couldn&rsquo;t understand her when she spoke english - much less
                 french. I quit the course.
               </p>
 
@@ -433,11 +433,11 @@ export default function Home() {
                 no particular girl friend until my senior year. Her name was
                 Janet Volk — daughter of the owner of Volk Funeral Home in
                 Teaneck. She was a student librarian, and I made it a point to
-                Visit the library quite often. I'll never forget the time I
+                Visit the library quite often. I&rsquo;ll never forget the time I
                 called on her at her home. Her mother, who was beautiful,
                 answered the door and directed me to a room in the basement
-                where Janet was "working." When I opened the door, there she was
-                putting make—up on a corpse. That I didn't expect, nor
+                where Janet was &ldquo;working.&rdquo; When I opened the door, there she was
+                putting make—up on a corpse. That I didn&rsquo;t expect, nor
                 particularly enjoy watching. So much for high school.
               </p>
 
@@ -453,7 +453,7 @@ export default function Home() {
                 was quickly accepted. There must have been other colleges to
                 which I applied but my memory fails me as to which ones. Why
                 Lehigh University? It was renowned as having an excellent
-                engineering curriculum, and I wanted to follow my Dad's
+                engineering curriculum, and I wanted to follow my Dad&rsquo;s
                 footsteps and be an engineer. Another reason — it was close to
                 home so that I could get there and back over a weekend if
                 necessary. In those days Lehigh had about 1700 undergraduate
@@ -462,40 +462,40 @@ export default function Home() {
 
               <p>
                 I lived in a dormitory for the first seven months. It was called
-                "Drinker House" — and, no, it did <em>not</em> mean that only
+                &ldquo;Drinker House&rdquo; — and, no, it did <em>not</em> mean that only
                 those who drank lived there! Fraternity rushing started the
                 latter part of September, 1940. Rushing in those days consisted
                 pretty much of dinners at the fraternity house, picnics with the
-                brothers and seeing a burlesque show in Allentown. It's my
+                brothers and seeing a burlesque show in Allentown. It&rsquo;s my
                 understanding that fraternity rushing is a bit more refined now.
                 I received at least two invitations to join other fraternities
                 but selected Beta Theta Pi - a national fraternity, and have
                 never been sorry. In those days I was rather shy - not
                 aggressive in making friends. Fortunately frat life changed
-                that. Of course living in a dormitory didn't leave me too much
+                that. Of course living in a dormitory didn&rsquo;t leave me too much
                 time to associate with my fraternity brothers who numbered about
                 30. My only contacts with them were at the dinner table and
                 watching sporting activities, mostly football, wrestling and
                 basketball. During my freshman year one of the upper classman
-                told me that if I didn't move from the dormitory to the
+                told me that if I didn&rsquo;t move from the dormitory to the
                 fraternity house and get to know the brothers better, I might
                 not become a member. So in early 1941 I moved to the Beta house,
                 got to know the brothers better, participated in the
-                fraternity's activities and on March 7, 1941, was formally
+                fraternity&rsquo;s activities and on March 7, 1941, was formally
                 initiated, I eventually was chosen House Treasurer and
                 eventually President.
               </p>
 
               <p>
-                During the summer of 1941 I worked as a plumber's helper for $15
+                During the summer of 1941 I worked as a plumber&rsquo;s helper for $15
                 a week. The boss specialized in rough plumbing of new homes in
-                the Bergen County area. Most of the time I was a "go-fer", but I
+                the Bergen County area. Most of the time I was a &ldquo;go-fer&rdquo;, but I
                 was allowed to caulk sewer pipe and cut and thread pipe for
                 water and gas. I also drove a truck to pick up supplies at
                 various plumbing supply houses. The guys I worked with were very
                 earthy people. It was quite an education for me. Most of them
                 only had a twelfth grade education if that. Despite my being a
-                "college guy", I got along quite well with most of the workers.
+                &ldquo;college guy&rdquo;, I got along quite well with most of the workers.
               </p>
 
               <p>
@@ -515,7 +515,7 @@ export default function Home() {
                 Teaneck high school concentrated on reading literary works —
                 Shakespeare, Chaucer, etc. not on learning how to write to be
                 clearly understood. Consequently I flunked the english test and
-                had to take english zero with no credits. Lehigh's faculty felt
+                had to take english zero with no credits. Lehigh&rsquo;s faculty felt
                 very strongly that everyone — engineer, arts and business
                 students, in order to be successful, must be able to express
                 themselves by writing clearly and concisely. I do believe that,
@@ -527,24 +527,24 @@ export default function Home() {
                 Here again my social life at college was not spectacular. I had
                 to study every night during the week to get decent grades,
                 leaving only the weekends for fun. Two of the hangouts for
-                almost every Lehigh student was Joe Kinney's Bar and the
-                Mannechor, a German pub. I know that you kids won't believe that
+                almost every Lehigh student was Joe Kinney&rsquo;s Bar and the
+                Mannechor, a German pub. I know that you kids won&rsquo;t believe that
                 your father drank at the tender age of 17 and 18 — but on
                 occasion I did. One time when I was an upper classman I had too
-                much to drink on a Saturday night. Around eleven o'clock on
+                much to drink on a Saturday night. Around eleven o&rsquo;clock on
                 Sunday morning, in order to awaken me, a lowly freshman was
                 bouncing the heck out of my cot in the third floor dormitory
                 room. I opened my eyes, was just about able to see the freshman,
-                and thought he had lost his senses. Freshmen just didn't do that
+                and thought he had lost his senses. Freshmen just didn&rsquo;t do that
                 to upper classmen! I was just about to cuss him out when he
-                motioned me to be quiet and said, "Your father is on the other
+                motioned me to be quiet and said, &ldquo;Your father is on the other
                 side of the dormitory door waiting to see you and your mother is
-                downstairs." This was <strong>not</strong> good news! I had no
+                downstairs.&rdquo; This was <strong>not</strong> good news! I had no
                 idea they were planning to visit me. So I staggered out of bed,
                 greeted my dad, and told him after I had a shower and got
                 dressed I would meet them downstairs. The were going to take me
-                to the Bethlehem Hotel for dinner. I don't think I'll ever
-                forget the hurt look on my mom's face when I greeted her. She
+                to the Bethlehem Hotel for dinner. I don&rsquo;t think I&rsquo;ll ever
+                forget the hurt look on my mom&rsquo;s face when I greeted her. She
                 never even entertained the thought that her darling son would
                 ever get drunk. To make matters worse I just picked at my dinner
                 when ordinarily I would have devoured it with great
@@ -564,18 +564,18 @@ export default function Home() {
               <p>
                 Perhaps the highlights of the social season were the spring
                 proms. The girls we invited took over the fraternity house. The
-                brothers stayed at a friend's house in town or rented a room at
+                brothers stayed at a friend&rsquo;s house in town or rented a room at
                 one of the two Bethlehem hotels. A week before the prom began
                 all the brothers got together to clean up the house. We
                 vacuumed, painted, polished and put the doors back on the stalls
                 in the bathroom. Since being rather critical about the clean up
-                work done by my brothers, I got the nickname of "Ma" Pruett. The
+                work done by my brothers, I got the nickname of &ldquo;Ma&rdquo; Pruett. The
                 first prom I attended was held in the fall of 1941. My date was
                 Connie Platt, a cousin of Jim Platt. She lived in Fort Lee and
                 we, to the best of my recollection, had dated only one time
                 before when I was in high school. She was a very sweet girl and
                 a good Catholic. In fact she became a nun! Whether or not that
-                choice had anything to do with the prom I'll never know. I think
+                choice had anything to do with the prom I&rsquo;ll never know. I think
                 that was the last date we had.
               </p>
 
@@ -589,13 +589,13 @@ export default function Home() {
                 date again at the fall prom in 1942 at which time I gave her my
                 fraternity pin. We always had name bands at these proms —
                 sometimes two at the same prom. I remember on one occasion that
-                Sammy Kaye and one of the Dorsey brothers' bands played for us.
+                Sammy Kaye and one of the Dorsey brothers&rsquo; bands played for us.
               </p>
 
               <p>
                 Another form of recreation was, of course, going to the movies
-                but "never on Sunday." The blue laws were in effect. What else
-                in the city of "Bethlehem."
+                but &ldquo;never on Sunday.&rdquo; The blue laws were in effect. What else
+                in the city of &ldquo;Bethlehem.&rdquo;
               </p>
 
               <p>
@@ -614,10 +614,10 @@ export default function Home() {
                 On Sunday afternoon, December 7, 1941, I was studying in my room
                 on the second floor of the fraternity house. All of a sudden I
                 heard a lot of commotion on the first floor from my brothers who
-                were listening to the radio. It wasn't long before everyone in
+                were listening to the radio. It wasn&rsquo;t long before everyone in
                 the house knew that the Japanese had bombed Pearl Harbor. The
-                significance of that event didn't immediately register with me.
-                It wasn't clear at that moment about the extent of the damage
+                significance of that event didn&rsquo;t immediately register with me.
+                It wasn&rsquo;t clear at that moment about the extent of the damage
                 from the raid. It certainly changed the plans of not just the
                 students at Lehigh but people throughout the world. Some
                 students decided to quit college and enlist in the armed forces.
@@ -656,14 +656,14 @@ export default function Home() {
                 military disciplines. Since I had prior experience in marching,
                 because of my two years of ROTC at Lehigh, I was selected as a
                 squadron commander. We learned a lot of marching songs which we
-                sang around 5:30 in the morning as we marched to breakfast. I'm
+                sang around 5:30 in the morning as we marched to breakfast. I&rsquo;m
                 sure that the natives and rich northern snow birds appreciated
                 that.
               </p>
 
               <p>
                 We were never permitted to leave Miami Beach during the month
-                and a half we were there. Miami was off limits and there wasn't
+                and a half we were there. Miami was off limits and there wasn&rsquo;t
                 much to do in Miami Beach. When I first arrived I thought I
                 wanted to spend the rest of the war there. The weather was
                 excellent, nice surroundings, good food and living
@@ -676,7 +676,7 @@ export default function Home() {
                 About the beginning of April some of us Aviation Cadets were
                 sent by rail to Kent State University in Kent, Ohio, for, what
                 was called, College Training Detachment. We were billeted in the
-                college's dormitories. While there we had instruction in courses
+                college&rsquo;s dormitories. While there we had instruction in courses
                 like meterology, some algebra, and theory of flight, among
                 others. Naturally we had more marching drills. Most satisfying
                 was the five hours of instruction each cadet got in a small,
@@ -737,8 +737,8 @@ export default function Home() {
                 after only five hours of instruction. How well I remember that
                 day. I had just landed the airplane after practicing landings
                 with my instructor. At the end of the landing roll he got out of
-                the plane — which I thought was odd, and said, "It's all yours.
-                Take off and shoot a couple of landings." I did and, since I
+                the plane — which I thought was odd, and said, &ldquo;It&rsquo;s all yours.
+                Take off and shoot a couple of landings.&rdquo; I did and, since I
                 walked away from the plane after the two landings, I guess they
                 could be called good ones. There was only one flying incident
                 that shook me up. I was practicing lazy eights at about 4,000
@@ -757,7 +757,7 @@ export default function Home() {
                 other cadets and I had dates one night with girls from the
                 Oklahoma College for Women. The four of us were dependent upon
                 taxis to get to and from the base, and we had to be back by
-                midnight. We called the taxi company about eleven o'clock and
+                midnight. We called the taxi company about eleven o&rsquo;clock and
                 asked them to pick us up no later than 11:30 for the 15 minute
                 ride back to the base. No problem we were told. Well 11:30 came,
                 11:45 and still no taxi. We knew we would not be back by
@@ -794,7 +794,7 @@ export default function Home() {
                 affectionately called the bamboo bomber. It had a fabric,
                 instead of a metal, covered fuselage and wings. More formation
                 and instrument flying plus cross country flying at night. In
-                those days we didn't have sophisticated radio navigational aids.
+                those days we didn&rsquo;t have sophisticated radio navigational aids.
                 My night cross country was a round trip from Pampa to Tucumcari,
                 New Mexico, about 320 miles round trip using a light line. The
                 light line was a series of lights flashing morse code signals of
@@ -806,7 +806,7 @@ export default function Home() {
               <p>
                 May 23, 1944, was graduation day. The girl I was going with
                 pinned wings on my summer uniform, and I got my second
-                lieutenant's gold bar. It was a custom then that you had to give
+                lieutenant&rsquo;s gold bar. It was a custom then that you had to give
                 a dollar to the first enlisted man who saluted you. I had no
                 regrets in giving away the dollar.
               </p>
@@ -815,7 +815,7 @@ export default function Home() {
                 We had a two weeks leave after graduation - my first since
                 entering the service. Of course I went home to Teaneck wearing
                 my new tailored tan gabardine summer uniform with wings and a
-                2nd lieutenant's bars. Was I proud — so were Mom and Dad!!
+                2nd lieutenant&rsquo;s bars. Was I proud — so were Mom and Dad!!
               </p>
 
               <p>
@@ -901,13 +901,13 @@ export default function Home() {
                 and used the box for what he had to do. Then he disposed of it
                 through the open bomb bay doors. I could picture some poor
                 farmer out in the fields or some worker on the early shift being
-                hit with that box "lunch".
+                hit with that box &ldquo;lunch&rdquo;.
               </p>
 
               <p>
                 When we landed at the airport in Bangor, Maine, the snow along
-                the runway was piled as high as the plane's wingtips which
-                astounded my navigator from Alabama. He'd <strong>never</strong>{" "}
+                the runway was piled as high as the plane&rsquo;s wingtips which
+                astounded my navigator from Alabama. He&rsquo;d <strong>never</strong>{" "}
                 seen snow that high. On the evening of February 13, 1945, my
                 birthday I called my mom and dad to tell them I was on my way to
                 Italy. They took the news very well - no crying. The next
@@ -936,27 +936,27 @@ export default function Home() {
                 After leaving the Azores to continue our flight to Italy, I was
                 concerned about the possibility of encountering German fighter
                 aircraft. The only armament we had was our side arms - 45
-                caliber pistols which wouldn't have been very useful against
+                caliber pistols which wouldn&rsquo;t have been very useful against
                 machine guns. Fortunately we never saw any enemy aircraft. The
                 war was winding down!
               </p>
 
               <p>
-                Life at Cerignola wasn't too bad. My crew and I were assigned to
+                Life at Cerignola wasn&rsquo;t too bad. My crew and I were assigned to
                 the 459th bomb group which had four squadrons - ours, the 756th
                 squadron, and three others - the 757th, 758th and the 759th. The
-                air "field" we used had been a vineyard - the single runway
+                air &ldquo;field&rdquo; we used had been a vineyard - the single runway
                 consisted of steel matting. We lived in tents, about six men per
                 tent, - officers in one area and the enlisted men in another
                 area. Each tent was heated by a furnace rigged from a 55 gallon
                 oil can. Latrines were enclosed in an unheated wooden shed.
                 Shower facilities were rather primative but adequate. We had
-                meals in a messhall which I believe was once the farmer's house.
-                Food was pretty good, but I didn't like the powdered milk and
-                eggs. At times we'd pay the local farmers for some fresh eggs.
+                meals in a messhall which I believe was once the farmer&rsquo;s house.
+                Food was pretty good, but I didn&rsquo;t like the powdered milk and
+                eggs. At times we&rsquo;d pay the local farmers for some fresh eggs.
                 Each month we were paid in Italian lira - one lira = a US cent.
-                Every week or two we'd be given a carton of cigarettes (Which I
-                gave to my crew because I didn't smoke) and a bottle of liquor
+                Every week or two we&rsquo;d be given a carton of cigarettes (Which I
+                gave to my crew because I didn&rsquo;t smoke) and a bottle of liquor
                 which I kept.
               </p>
 
@@ -974,10 +974,10 @@ export default function Home() {
               </p>
 
               <p>
-                For a typical day's flying mission we were first aroused by an
+                For a typical day&rsquo;s flying mission we were first aroused by an
                 orderly around 5:00 am, dressed and had breakfast, back to the
                 tent to brush teeth, shave and visit the latrines. Then we would
-                get a briefing on the day's mission - maps were distributed to
+                get a briefing on the day&rsquo;s mission - maps were distributed to
                 the navigators, our target was revealed, expected weather and
                 enemy aircraft, if any, along the route was announced and the
                 amount of antiaircraft activity and flak we could expect. Then
@@ -990,7 +990,7 @@ export default function Home() {
                 out of the parking area in sequence for take off. We maintained
                 radio silence for fear the Germans would hear our radio chatter
                 and be tipped off about our mission. There were usually about 15
-                to 20 B-24's on a mission from our squadron. Our missions would
+                to 20 B-24&rsquo;s on a mission from our squadron. Our missions would
                 last almost eight hours. Each crew member had canned rations for
                 lunch and either water or cannned drinks. After returning to our
                 base we were immediately interrogated by military intelligence
@@ -1008,9 +1008,9 @@ export default function Home() {
 
               <p>
                 With no more combat missions to fly we had a lot of time on our
-                hands. We would fly to Rome or Naples a few times in our B-24's.
+                hands. We would fly to Rome or Naples a few times in our B-24&rsquo;s.
                 I visited a lot of the tourist sights in both cities - in Rome
-                the Colosseum, Forum, Pantheon, Vatican City, St. Peter's
+                the Colosseum, Forum, Pantheon, Vatican City, St. Peter&rsquo;s
                 Basilica, Catacombs and many other interesting sites. I even had
                 an audience with Pope Pius, along with about 1,000 other
                 military personnel from many of the allied countries and Italian
@@ -1026,7 +1026,7 @@ export default function Home() {
                 personnel in our squadron from Cerignola to Cairo, Egypt, on a
                 sight seeing tour. Along the way we flew over Tobruk, Libia, and
                 El Alamein, Egypt, along a stretch of north Africa in which
-                Field Marshall Erwin Rommel, the "desert fox" and Lt. General
+                Field Marshall Erwin Rommel, the &ldquo;desert fox&rdquo; and Lt. General
                 Bernard Montgomery fought over so vigorously for 15 months
                 beginning in February, 1941. We saw hundreds of rusted tanks,
                 trucks, and artillary pieces which were abandoned in that
@@ -1067,12 +1067,12 @@ export default function Home() {
                 USO show near our base. Frank Sinatra, old blue eyes, and his
                 side kick, Phil Silvers, came to entertain us. They did a great
                 job. Frank sang many songs popular in the forties. One song I
-                did not expect to hear him sing was "Old Man River". Paul
+                did not expect to hear him sing was &ldquo;Old Man River&rdquo;. Paul
                 Robeson, a tall, strapping black man used to sing that song and
-                now I was listening to that skinny Sinatra singing it. But I've
-                got to hand it to him - he was marvelous. Frank also sang "Nancy
-                With The Smiling Face". If I'm not mistaken Phil Silvers wrote
-                the lyrics to that song about Frank's daughter.
+                now I was listening to that skinny Sinatra singing it. But I&rsquo;ve
+                got to hand it to him - he was marvelous. Frank also sang &ldquo;Nancy
+                With The Smiling Face&rdquo;. If I&rsquo;m not mistaken Phil Silvers wrote
+                the lyrics to that song about Frank&rsquo;s daughter.
               </p>
 
               <p>
@@ -1111,11 +1111,11 @@ export default function Home() {
                 The voyage on board a Liberty ship from Naples harbor to the New
                 York harbor was a <strong>very</strong> slow process. As I
                 recall it took us about two weeks. We arrived in New York City
-                in late August of '45. Mom and grandma Homer met me at dockside
+                in late August of &rsquo;45. Mom and grandma Homer met me at dockside
                 and were they ever happy to see me and I them. It must have been
                 about a year since we saw one another. My dad at that time was
                 in a rehabilitation center being treated for depression. He had
-                suffered from depression off and on for over two years. I'll
+                suffered from depression off and on for over two years. I&rsquo;ll
                 never forget the feeling I had when the ship passed the Statue
                 of Liberty. Although I had visited it before on a couple of
                 occasions, this time the sight of that statue had added
@@ -1126,12 +1126,12 @@ export default function Home() {
 
               <p>
                 I was home only a few days when mom, dad and I drove to
-                Christmas Tree Inn in Bridgeton, Maine, for a week's vacation.
+                Christmas Tree Inn in Bridgeton, Maine, for a week&rsquo;s vacation.
                 It was a place we had spent our vacations before when I was in
                 high school. They had been saving gasoline stamps for that trip
                 in anticipation of my return from Italy. Of course since the war
                 was over stamps were no longer required. Arriving back to
-                Teaneck I developed hepatitis. I'm not sure howl got this
+                Teaneck I developed hepatitis. I&rsquo;m not sure howl got this
                 disease — whether it was from hypodermic needles from shots I
                 had in Italy just before returning home or from eating lobsters
                 in Maine. Since I was still in the military, I was sent to Camp
@@ -1392,8 +1392,8 @@ export default function Home() {
             </div>
             <div className="w-16 h-px bg-slate-600 mx-auto"></div>
             <p className="text-xs text-slate-400">
-              "Wherever he lived, he wanted to make a difference in the
-              community."
+              &ldquo;Wherever he lived, he wanted to make a difference in the
+              community.&rdquo;
             </p>
           </div>
         </div>
