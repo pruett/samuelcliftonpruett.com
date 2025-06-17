@@ -3,24 +3,41 @@ import Image from "next/image";
 export default function Home() {
   return (
     <>
-      <header className="VisualIntro">
-        <div className="vi-content">
-          <h1>
-            <span className="rank">Lt. Col.</span>
-            <br />
-            <span className="name">Samuel Clifton Pruett</span>
-          </h1>
-          <p>1923&nbsp;—&nbsp;2010</p>
+      <header className="relative h-[85vh] min-h-[32rem]">
+        <Image
+          src="/images/profile.jpg"
+          alt="Lt. Col. Samuel Clifton Pruett"
+          fill
+          className="object-cover object-center sm:object-[center_18%]"
+          priority
+        />
+        <div className="absolute inset-0 bg-gradient-to-b from-slate-900/30 to-slate-900/90" />
+        <div className="absolute inset-x-0 bottom-8 flex items-center justify-center text-center">
+          <div className="space-y-2 text-white backdrop-blur-sm bg-black/20 rounded-lg px-4 py-3 sm:px-6 sm:py-4">
+            <h1 className="font-oswald tracking-wide uppercase drop-shadow-lg">
+              <span className="block text-base sm:text-lg md:text-xl font-light drop-shadow-md">
+                Lt. Col.
+              </span>
+              <span className="block text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-normal tracking-wide drop-shadow-lg">
+                Samuel Clifton Pruett
+              </span>
+            </h1>
+            <p className="text-base sm:text-lg md:text-xl font-light tracking-wide opacity-95 drop-shadow-md">
+              1923 &mdash; 2010
+            </p>
+          </div>
         </div>
       </header>
 
-      <main>
-        <div>
-          <div className="Letter">
-            <div>
-              <p>April 15, 2002</p>
+      <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        <div className="space-y-16">
+          <section className="Letter bg-amber-50 border-l-4 border-amber-300 rounded-r-lg p-6 sm:p-8 shadow-sm">
+            <div className="max-w-3xl space-y-6">
+              <p className="text-amber-800 text-sm font-medium tracking-wide uppercase">
+                April 15, 2002
+              </p>
 
-              <blockquote>
+              <blockquote className="italic text-lg sm:text-xl leading-relaxed text-gray-700 border-l-2 border-amber-200 pl-6">
                 <p>
                   About five years ago Craig asked your mom and me to write our
                   autobiography beginning as far back as we could remember. Mom
@@ -31,20 +48,27 @@ export default function Home() {
                 </p>
               </blockquote>
 
-              <p>— Love, Dad</p>
+              <p className="text-right text-gray-600 font-medium">
+                — Love, Dad
+              </p>
             </div>
-          </div>
+          </section>
 
-          <div className="Autobiography">
-            <div>
-              <h2 id="a-short-genealogy">A Short Genealogy</h2>
+          <section className="Autobiography [&>div>p]:text-lg [&>div>p]:lg:text-xl [&>div>p]:xl:text-2xl [&>div>p]:leading-relaxed [&>div>p]:text-gray-700 [&>div>p]:mb-6 [&>div>p]:font-serif [&>div>p]:antialiased [&>div>strong]:font-bold [&>div>strong]:text-gray-800 [&>div>em]:italic">
+            <div className="prose prose-lg lg:prose-xl xl:prose-2xl max-w-none">
+              <h2
+                id="a-short-genealogy"
+                className="font-oswald text-2xl sm:text-3xl font-normal text-gray-800 border-b-2 border-gray-200 pb-3 mb-8"
+              >
+                A Short Genealogy
+              </h2>
 
-              <p>
+              <p className="text-lg lg:text-xl xl:text-2xl leading-relaxed text-gray-700 mb-6 font-serif antialiased">
                 Before writing about myself, I thought it would be more
                 appropriate if you knew a little more about my genealogy.
               </p>
 
-              <p>
+              <p className="text-lg lg:text-xl xl:text-2xl leading-relaxed text-gray-700 mb-6 font-serif antialiased">
                 My Mother, Ruth Horner Pruett, a.k.a. Mom, was born in Essex,
                 Connecticut, on October 17, 1892. She died in the Paul Kimball
                 Hospital in Lakewood, N.J. on July 18, 1976, from ovarian cancer
@@ -56,7 +80,7 @@ export default function Home() {
                 There were no other children.
               </p>
 
-              <p>
+              <p className="text-lg lg:text-xl xl:text-2xl leading-relaxed text-gray-700 mb-6 font-serif antialiased">
                 My Dad, Samuel Clifton Pruett, Sr., was born on September 1,
                 1895 in Baltimore, Md. and died on May 27, 1976 from a brain
                 hemorrhage at the Point Plesant Hospital in N.J. His mother, Ida
@@ -70,7 +94,7 @@ export default function Home() {
                 unknown.
               </p>
 
-              <p>
+              <p className="text-lg lg:text-xl xl:text-2xl leading-relaxed text-gray-700 mb-6 font-serif antialiased">
                 I have no recollection of how or where Mom and Dad met, but I
                 believe it must have been in the Elizabeth, N.J. area. They were
                 married in the Second Presbyterian Church in Elizabeth on
@@ -146,7 +170,12 @@ export default function Home() {
                 Hackensack.
               </p>
 
-              <h2 id="1923-to-1929">1923 to 1929</h2>
+              <h2
+                id="1923-to-1929"
+                className="font-oswald text-2xl sm:text-3xl font-normal text-gray-800 border-b-2 border-gray-200 pb-3 mb-8 mt-12"
+              >
+                1923 to 1929
+              </h2>
 
               <p>
                 I was born on February 13, 1923, in a hospital in New York City
@@ -193,13 +222,14 @@ export default function Home() {
                 my face in the pillows until they were bloody.
               </p>
 
-              <figure>
+              <figure className="my-8 text-center">
                 <a href="/images/child.jpg" target="_blank">
                   <Image
                     src="/images/child.jpg"
                     alt="Young Samuel Clifton Pruett as a child"
                     width={400}
                     height={300}
+                    className="rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 max-w-full h-auto"
                   />
                 </a>
               </figure>
@@ -212,7 +242,12 @@ export default function Home() {
                 my heart out.
               </p>
 
-              <h2 id="1930-to-1940">1930 to 1940</h2>
+              <h2
+                id="1930-to-1940"
+                className="font-oswald text-2xl sm:text-3xl font-normal text-gray-800 border-b-2 border-gray-200 pb-3 mb-8 mt-12"
+              >
+                1930 to 1940
+              </h2>
 
               <p>
                 Of course the depression was in full swing in the early 30's.
@@ -406,7 +441,12 @@ export default function Home() {
                 particularly enjoy watching. So much for high school.
               </p>
 
-              <h2 id="1940-to-1943">1940 to 1943</h2>
+              <h2
+                id="1940-to-1943"
+                className="font-oswald text-2xl sm:text-3xl font-normal text-gray-800 border-b-2 border-gray-200 pb-3 mb-8 mt-12"
+              >
+                1940 to 1943
+              </h2>
 
               <p>
                 I applied for acceptance at Lehigh University in early 1940 and
@@ -674,7 +714,12 @@ export default function Home() {
                 shoulder.
               </p>
 
-              <h2 id="1943-to-1945">1943 to 1945</h2>
+              <h2
+                id="1943-to-1945"
+                className="font-oswald text-2xl sm:text-3xl font-normal text-gray-800 border-b-2 border-gray-200 pb-3 mb-8 mt-12"
+              >
+                1943 to 1945
+              </h2>
 
               <p>
                 All the flight training I had was under the authority of the
@@ -828,13 +873,14 @@ export default function Home() {
                 should just tell them that he was a Holy Roller.
               </p>
 
-              <figure>
+              <figure className="my-8 text-center">
                 <a href="/images/squad.jpg" target="_blank">
                   <Image
                     src="/images/squad.jpg"
                     alt="Samuel Clifton Pruett with his military squadron"
                     width={400}
                     height={300}
+                    className="rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 max-w-full h-auto"
                   />
                 </a>
               </figure>
@@ -1116,7 +1162,12 @@ export default function Home() {
                 great experience and a lot more fun than hanging around Teaneck.
               </p>
 
-              <h2 id="1945-to-1947">1945 to 1947</h2>
+              <h2
+                id="1945-to-1947"
+                className="font-oswald text-2xl sm:text-3xl font-normal text-gray-800 border-b-2 border-gray-200 pb-3 mb-8 mt-12"
+              >
+                1945 to 1947
+              </h2>
 
               <p>
                 I returned to Lehigh University in 1946 to graduate with some
@@ -1127,23 +1178,30 @@ export default function Home() {
                 B.S.-IE degree in June, 1947.
               </p>
             </div>
-          </div>
+          </section>
 
-          <div className="Obituary">
-            <div>
-              <p>
+          <section className="Obituary bg-slate-50 border-2 border-slate-200 rounded-lg p-6 sm:p-8">
+            <div className="max-w-3xl mx-auto space-y-6">
+              <div className="text-center border-b border-slate-300 pb-4 mb-6">
+                <h2 className="font-oswald text-2xl sm:text-3xl font-normal text-slate-800 mb-2">
+                  In Memoriam
+                </h2>
+                <div className="w-16 h-px bg-slate-400 mx-auto"></div>
+              </div>
+
+              <p className="text-lg leading-relaxed text-slate-700 text-center font-medium">
                 Lt. Col. S. Clifton Jr. (Ret), USAF, 86, of Henersonville, NC
                 died Wednesday, January 27, 2010 at the Carolina Village Medical
                 Center.
               </p>
 
-              <p>
+              <p className="text-lg leading-relaxed text-slate-700">
                 A native of Weehawken, NJ, he was a son of the late S. Clifton
                 Pruett, Sr. and Ruth Horner Pruett. He was a prior resident of
                 Hillsdale, NJ, before moving to Henderson County.
               </p>
 
-              <p>
+              <p className="text-lg leading-relaxed text-slate-700">
                 He was employed as commercial manager of the Paterson Commercial
                 Office, and had been with PSE&G for over 35 years, before
                 retiring in 1985. While with PSE&G, he held several titles;
@@ -1166,7 +1224,7 @@ export default function Home() {
                 dearly missed by all that knew and loved him.
               </p>
 
-              <p>
+              <p className="text-lg leading-relaxed text-slate-700">
                 Survivors include his loving wife of 62 years, Sallie Rice
                 Pruett; one daughter, Sandra Pruett and partner, Mark Kimball,
                 of Anna Maria, FL and her two children, daughter, Lindsey, and
@@ -1177,107 +1235,169 @@ export default function Home() {
                 their children, Kristen and Bryan.
               </p>
             </div>
-          </div>
+          </section>
         </div>
       </main>
 
-      <ul className="ImageGallery">
-        <li className="ig-item">
-          <a href="/images/craig.jpg" target="_blank">
-            <Image
-              className="ig-image"
-              src="/images/craig.jpg"
-              alt="Craig Pruett"
-              width={400}
-              height={300}
-            />
-          </a>
-        </li>
+      <section className="bg-gray-50 py-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-12">
+            <h2 className="font-oswald text-2xl sm:text-3xl font-normal text-gray-800 mb-4">
+              Family Gallery
+            </h2>
+            <div className="w-16 h-px bg-gray-400 mx-auto"></div>
+          </div>
 
-        <li className="ig-item">
-          <a href="/images/cockpit.jpg" target="_blank">
-            <Image
-              className="ig-image"
-              src="/images/cockpit.jpg"
-              alt="Aircraft cockpit"
-              width={400}
-              height={300}
-            />
-          </a>
-        </li>
+          <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 p-8">
+            <li className="list-none">
+              <a
+                href="/images/craig.jpg"
+                target="_blank"
+                className="block group"
+              >
+                <Image
+                  className="w-full h-auto rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 object-cover aspect-[4/3]"
+                  src="/images/craig.jpg"
+                  alt="Craig Pruett"
+                  width={400}
+                  height={300}
+                />
+              </a>
+            </li>
 
-        <li className="ig-item">
-          <a href="/images/family.jpg" target="_blank">
-            <Image
-              className="ig-image"
-              src="/images/family.jpg"
-              alt="Family photo"
-              width={400}
-              height={300}
-            />
-          </a>
-        </li>
+            <li className="list-none">
+              <a
+                href="/images/cockpit.jpg"
+                target="_blank"
+                className="block group"
+              >
+                <Image
+                  className="w-full h-auto rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 object-cover aspect-[4/3]"
+                  src="/images/cockpit.jpg"
+                  alt="Aircraft cockpit"
+                  width={400}
+                  height={300}
+                />
+              </a>
+            </li>
 
-        <li className="ig-item">
-          <a href="/images/newborn.jpg" target="_blank">
-            <Image
-              className="ig-image"
-              src="/images/newborn.jpg"
-              alt="Newborn photo"
-              width={400}
-              height={300}
-            />
-          </a>
-        </li>
+            <li className="list-none">
+              <a
+                href="/images/family.jpg"
+                target="_blank"
+                className="block group"
+              >
+                <Image
+                  className="w-full h-auto rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 object-cover aspect-[4/3]"
+                  src="/images/family.jpg"
+                  alt="Family photo"
+                  width={400}
+                  height={300}
+                />
+              </a>
+            </li>
 
-        <li className="ig-item">
-          <a href="/images/sandee-doug.jpg" target="_blank">
-            <Image
-              className="ig-image"
-              src="/images/sandee-doug.jpg"
-              alt="Sandee and Doug"
-              width={400}
-              height={300}
-            />
-          </a>
-        </li>
+            <li className="list-none">
+              <a
+                href="/images/newborn.jpg"
+                target="_blank"
+                className="block group"
+              >
+                <Image
+                  className="w-full h-auto rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 object-cover aspect-[4/3]"
+                  src="/images/newborn.jpg"
+                  alt="Newborn photo"
+                  width={400}
+                  height={300}
+                />
+              </a>
+            </li>
 
-        <li className="ig-item">
-          <a href="/images/table.jpg" target="_blank">
-            <Image
-              className="ig-image"
-              src="/images/table.jpg"
-              alt="Table scene"
-              width={400}
-              height={300}
-            />
-          </a>
-        </li>
+            <li className="list-none">
+              <a
+                href="/images/sandee-doug.jpg"
+                target="_blank"
+                className="block group"
+              >
+                <Image
+                  className="w-full h-auto rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 object-cover aspect-[4/3]"
+                  src="/images/sandee-doug.jpg"
+                  alt="Sandee and Doug"
+                  width={400}
+                  height={300}
+                />
+              </a>
+            </li>
 
-        <li className="ig-item">
-          <a href="/images/portrait.jpg" target="_blank">
-            <Image
-              className="ig-image"
-              src="/images/portrait.jpg"
-              alt="Portrait"
-              width={400}
-              height={300}
-            />
-          </a>
-        </li>
+            <li className="list-none">
+              <a
+                href="/images/table.jpg"
+                target="_blank"
+                className="block group"
+              >
+                <Image
+                  className="w-full h-auto rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 object-cover aspect-[4/3]"
+                  src="/images/table.jpg"
+                  alt="Table scene"
+                  width={400}
+                  height={300}
+                />
+              </a>
+            </li>
 
-        <li className="ig-item">
-          <a href="/images/nana.jpg" target="_blank">
-            <Image
-              className="ig-image"
-              src="/images/nana.jpg"
-              alt="Nana"
-              width={400}
-              height={300}
-            />
-          </a>
-        </li>
-      </ul>
+            <li className="list-none">
+              <a
+                href="/images/portrait.jpg"
+                target="_blank"
+                className="block group"
+              >
+                <Image
+                  className="w-full h-auto rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 object-cover aspect-[4/3]"
+                  src="/images/portrait.jpg"
+                  alt="Portrait"
+                  width={400}
+                  height={300}
+                />
+              </a>
+            </li>
+
+            <li className="list-none">
+              <a
+                href="/images/nana.jpg"
+                target="_blank"
+                className="block group"
+              >
+                <Image
+                  className="w-full h-auto rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 object-cover aspect-[4/3]"
+                  src="/images/nana.jpg"
+                  alt="Nana"
+                  width={400}
+                  height={300}
+                />
+              </a>
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <footer className="bg-slate-800 text-slate-300 py-8">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <div className="space-y-4">
+            <div className="text-sm">
+              <p>In loving memory of</p>
+              <p className="font-oswald text-lg tracking-wider">
+                Lt. Col. Samuel Clifton Pruett
+              </p>
+              <p>1923 — 2010</p>
+            </div>
+            <div className="w-16 h-px bg-slate-600 mx-auto"></div>
+            <p className="text-xs text-slate-400">
+              "Wherever he lived, he wanted to make a difference in the
+              community."
+            </p>
+          </div>
+        </div>
+      </footer>
     </>
   );
 }
